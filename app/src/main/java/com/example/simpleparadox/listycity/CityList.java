@@ -79,9 +79,9 @@ public class CityList {
     }
 
     public void append (City city) {
-        /*if (hasCity(city)) {
+        if (hasCity(city)) {
             throw new IllegalArgumentException();
         }
-        cities.add(city);*/
+        cities.add(city);
     }
 }
